@@ -104,7 +104,7 @@ color: red !important;
      border-radius: 5px;
 }
 
-.footer-copyright{
+footer>ul>li{
     background-color: rgb(29, 29, 29);
     text-align: center!important;
     padding-bottom: 1rem!important;
