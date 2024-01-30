@@ -3,6 +3,7 @@
 **Compétences visées** : 
 - Réaliser des interfaces utilisateur statiques web ou web mobile
 
+
 **Contexte** :
 
 "Un client me demande de modifier la page web de son site à partir de la maquette."
