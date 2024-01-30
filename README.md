@@ -2,6 +2,8 @@
 ## Brief 1 :
 **Compétences visées** : 
 - Réaliser des interfaces utilisateur statiques web ou web mobile
+- 
+![image](https://github.com/JMUPPYX/Brief-1-DrugStore/assets/148784893/a531155b-d9c2-41cf-b29c-5b19955b40a7)
 
 
 **Contexte** :
